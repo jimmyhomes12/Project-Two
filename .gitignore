@@ -1,0 +1,53 @@
+# Virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Data files (raw CSV files) - keep in git for portfolio
+# data/raw/*.csv
+# data/processed/*.csv
+
+# Model files - keep for portfolio demonstration
+# models/*.pkl
+# models/*.joblib
+
+# Output files - keep sample outputs for portfolio
+# outputs/plots/*.png
+# outputs/plots/*.jpg
+# outputs/forecasts/*.csv
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+tmp/
