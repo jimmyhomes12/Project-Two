@@ -20,18 +20,18 @@ build/
 .ipynb_checkpoints/
 *.ipynb_checkpoints
 
-# Data files (raw CSV files)
-data/raw/*.csv
-data/processed/*.csv
+# Data files (raw CSV files) - keep in git for portfolio
+# data/raw/*.csv
+# data/processed/*.csv
 
-# Model files
-models/*.pkl
-models/*.joblib
+# Model files - keep for portfolio demonstration
+# models/*.pkl
+# models/*.joblib
 
-# Output files
-outputs/plots/*.png
-outputs/plots/*.jpg
-outputs/forecasts/*.csv
+# Output files - keep sample outputs for portfolio
+# outputs/plots/*.png
+# outputs/plots/*.jpg
+# outputs/forecasts/*.csv
 
 # IDE settings
 .vscode/
