@@ -34,6 +34,10 @@ Project-Two/
 │   ├── app.py                      # Streamlit dashboard
 │   └── README.md                   # Project documentation
 ├── retail-eda-reference/           # Reference for related project
+├── tableau_viz/                    # Tableau Public dashboard assets
+│   ├── rfm_scores.csv              # RFM quintile scores per customer
+│   ├── full_ecom.csv               # Order-level transaction data
+│   └── README.md                   # Tableau quick-start guide
 ├── requirements.txt                # Python dependencies
 └── .gitignore                      # Git ignore rules
 ```
